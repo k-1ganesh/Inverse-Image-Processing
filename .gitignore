@@ -2,7 +2,7 @@
 *.asv
 *.m~
 *.mat
-
+.MATLABDrive*
 # OS junk
 .DS_Store
 Thumbs.db
