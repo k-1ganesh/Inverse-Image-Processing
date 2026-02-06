@@ -1,0 +1,8 @@
+# MATLAB temporary / backup files
+*.asv
+*.m~
+*.mat
+
+# OS junk
+.DS_Store
+Thumbs.db
